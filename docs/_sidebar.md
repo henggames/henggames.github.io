@@ -2,7 +2,7 @@
 
 * [首页](README)
 
-* [游戏目录](README)
+* [游戏目录](list/list.md)
   * [第一部分](list/list.md)
   * [第二部分](list/list1.md)
   * [第三部分](list/list2.md)
