@@ -14,7 +14,7 @@
 
 ### QQ群号：<font color=orange>661627142</font>
 
-### 电脑入群：<a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=wWnrIe5zq6iAwbjaMd6NDE8Meb8yrC-Z&jump_from=webapi"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="游戏交流群" title="游戏交流群"></a>
+### 点击入群：<a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=wWnrIe5zq6iAwbjaMd6NDE8Meb8yrC-Z&jump_from=webapi"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="游戏交流群" title="游戏交流群"></a>
 
 ### 扫码加群:
 ![avatar](qqun.png)

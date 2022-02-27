@@ -1,6 +1,6 @@
 <b><font face="黑体"><font color=orange>←←点击左侧，搜索游戏<br></font></font></b>
 
-## <b><font face="黑体"><font color=orange>大亨游戏屋，海量游戏待您游玩！<br></font></font></b>
+## <b><font face="黑体"><font color=orange>大亨游戏屋，海量游戏待您畅玩！<br></font></font></b>
 ## <b><font face="黑体"><font color=orange>游戏特点：<br></font></font></b>
 ### 1、纯净安全
 
