@@ -10,4 +10,4 @@
 
 * [免费游戏](freegame.md)
 
-* [系统修复](list/repair.md)
+* [系统修复](repair.md)
