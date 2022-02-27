@@ -3,6 +3,6 @@
 ![logo](logo.png)
 <br> 
 
-# 大亨的小屋
+# <font color=cyan>大亨游戏屋</font>
 
 [点我](README.md)

@@ -8,8 +8,6 @@
   * [第三部分](list/list2.md)
   * [第四部分](list/list3.md)
 
-* [本周免费游戏](list/freegame.md)
+* [免费游戏](freegame.md)
 
 * [系统修复](list/repair.md)
-
-* [加QQ群](list/QQ.md)

@@ -1,19 +1,20 @@
-## 欢迎来到大亨游戏屋，本站有海量单机游戏、steam游戏学习版供您游玩，游戏特点：
-
+## <b><font face="黑体"><font color=orange><center>欢迎来到大亨游戏屋，本站有海量单机游戏供您游玩<br><center></font></font></b>
+## <b><font face="黑体"><font color=orange>游戏特点：<br></font></font></b>
 ### 1、纯净安全
 
-游戏全部手工整理压缩，纯净无毒，上传天翼/百度云盘，下载解压即玩；
+游戏全部手工整理压缩，纯净无毒，上传天翼/百度云盘，下载<font color=orange>解压即玩</font>；
 
 ### 2、价格便宜
 
-所收录游戏，随便一款在steam平台，动辄大几十上百，目前在本站只需要48元打包全部；
+所收录游戏，随便一款在steam平台，动辄大几十上百，目前在本站只需要<font color=orange>48元</font>打包全部；
 
 ### 3、免费更新
 
-分享的游戏永久有效，免费更新。热门游戏一般都会收录，暂时没有的以后会有；
+分享的游戏<font color=orange>永久有效</font>，免费更新。热门游戏一般都会收录，暂时没有的以后会有；<br>总之，<font color=orange>我负责找，你负责玩</font>。
 
 
 ### 4、如何购买
 
-请移步小店：[大亨的小屋](https://shop475151117.taobao.com/)<br> 
-详情可咨询客服~
+请移步小店：<font color=cyan>https://shop475151117.taobao.com/</font><br><br>
+或搜索店铺名：<font color=cyan>大亨的小屋</font><br><br>
+详情可进店咨询~
