@@ -20,4 +20,4 @@
 移步小店：<font color=cyan>https://shop475151117.taobao.com/</font><br><br>
 或搜店铺名：<font color=cyan>大亨的小屋</font><br><br>
 详情可进店咨询~
-<a href="https://t.asczwa.com/taobao?backurl=https://shop475151117.taobao.com" rel="external nofollow" >移步小店</a>
+<a href="https://t.asczwa.com/taobao?backurl=https://m.tb.cn/h.fM3XUk5" rel="external nofollow" >移步小店</a>
