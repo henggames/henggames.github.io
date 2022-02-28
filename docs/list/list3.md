@@ -18,4 +18,4 @@
 * 405	看门狗3：军团 <font color=orange>【190G】</font><br>
 * 406	最终幻想7重制版 <font color=orange>【185G】</font><br>
 * 407	Unpacking--v20211104 <font color=orange>【1.5G】</font><br>
-* 408   Together BnB--v20220218 <font color=orange>【20】</font><br>
+* 408   Together BnB--v20220218 <font color=orange>【20G】</font><br>
