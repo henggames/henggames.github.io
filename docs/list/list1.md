@@ -1,5 +1,6 @@
 # 191-290
-#### <font color=yellow>文件显示大小=下载压缩包大小+解压所需空间</font>
+#### <font color=yellow>文件显示大小 = 压缩包大小 + 解压所需空间</font>
+* 190	盐和避难所  <font color=orange>【1G】</font>
 * 191	银河历险记1  <font color=orange>【0.3G】</font>  
 * 192	银河历险记2  <font color=orange>【0.3G】</font>  
 * 193	银河历险记3  <font color=orange>【5G】</font>  
@@ -98,5 +99,4 @@
 * 286	监狱模拟器--v20211106 <font color=orange>【3G】</font><br> 
 * 287	影子武士1 <font color=orange>【28G】</font><br> 
 * 288	影子武士2 <font color=orange>【29G】</font><br> 
-* 289	深海迷航：零度之下--v45695 <font color=orange>【15G】</font><br> 
-* 290	深海迷航--v68500 <font color=orange>【11G】</font><br> 
+* 289	深海迷航：零度之下--v45695 <font color=orange>【15G】</font>

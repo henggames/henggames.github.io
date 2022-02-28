@@ -1,8 +1,8 @@
-# 90-190
-#### <font color=yellow>文件显示大小=下载压缩包大小+解压所需空间</font>
+# 第一部分
+#### <font color=yellow>文件显示大小 = 压缩包大小 + 解压所需空间</font>
+* 90	文明6--v1.0.12.9集成全DLCs  <font color=orange>【35G】</font><br>
 * 91	极乐迪斯科--v20201125整合全DLCs  <font color=orange>【26G】</font><br> 
 * 92	斩妖行--v1.59.1125.1  <font color=orange>【8G】</font><br> 
-* 90	文明6--v1.0.12.9集成全DLCs  <font color=orange>【35G】</font><br>
 * 93	为了人民--v1.0  <font color=orange>【1.2G】</font><br> 
 * 94	哈迪斯--v1.38290--20220216  <font color=orange>【23G】</font><br> 
 * 95	铁拳4  <font color=orange>【12G】</font><br> 
@@ -86,7 +86,7 @@
 * 173	亿万僵尸--v1.1.1.7整合新战役新帝国  <font color=orange>【7.4G】</font><br> 
 * 174	战场兄弟中文版battle brothers--v1.4.049  <font color=orange>【4G】</font><br> 
 * 175	八方旅人--集成1号升级档  <font color=orange>【6G】</font><br> 
-* 176	战地1--整合CPY版  <font color=orange>【56G】</font><br> 
+* 176	战地1整合CPY版  <font color=orange>【56G】</font><br> 
 * 177	港诡实录--v1.0  <font color=orange>【20G】</font><br> 
 * 178	战术部队：无烟变换--v1.0.2  <font color=orange>【5G】</font><br> 
 * 179	热血无赖--终极版  <font color=orange>【28G】</font><br> 
@@ -99,5 +99,4 @@
 * 186	消逝的光芒--v1.43  <font color=orange>【60G】</font><br> 
 * 187	少林九武猴  <font color=orange>【13G】</font><br> 
 * 188	INSIDE--v20161123  <font color=orange>【4G】</font><br> 
-* 189	怪物避难所--v1.01  <font color=orange>【1.2G】</font><br> 
-* 190	盐和避难所  <font color=orange>【1G】</font>
+* 189	怪物避难所--v1.01  <font color=orange>【1.2G】</font>

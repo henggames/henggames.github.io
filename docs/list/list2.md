@@ -1,5 +1,6 @@
 # 291-390
-#### <font color=yellow>文件显示大小=下载压缩包大小+解压所需空间</font>
+#### <font color=yellow>文件显示大小 = 压缩包大小 + 解压所需空间</font>
+* 290	深海迷航--v68500 <font color=orange>【11G】</font><br> 
 * 291	三位一体4：梦魇王子 整合神秘旋律DLC <font color=orange>【30G】</font><br>
 * 292	小骨：英雄杀手--v1.3.19 <font color=orange>【2G】</font><br>
 * 293	铁路帝国--v1.130 <font color=orange>【22G】</font><br>
@@ -98,5 +99,4 @@
 * 386	海贼无双4 <font color=orange>【43G】</font><br>
 * 387	主播重度依赖--v20220126 <font color=orange>【2.5G】</font><br>
 * 388	宝可梦阿尔宙斯-电脑NS模拟器版 <font color=orange>【15G】</font><br>
-* 389	废墟图书馆--v1.1.0.6a10 <font color=orange>【14G】</font><br>
-* 390	拆迁模拟器 Teardown--v0.9.2无中文 <font color=orange>【6G】</font><br>
+* 389	废墟图书馆--v1.1.0.6a10 <font color=orange>【14G】</font>

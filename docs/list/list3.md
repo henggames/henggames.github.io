@@ -1,5 +1,6 @@
 # 391-490
-#### <font color=yellow>文件显示大小=下载压缩包大小+解压所需空间</font>
+#### <font color=yellow>文件显示大小 = 压缩包大小 + 解压所需空间</font>
+* 390	拆迁模拟器 Teardown--v0.9.2无中文 <font color=orange>【6G】</font><br>
 * 391	少林vs武当--v20211125 <font color=orange>【20G】</font><br>
 * 392	中国式家长--v1.0.9.1 <font color=orange>【0.6G】</font><br>
 * 393	胶佬模拟器--v1.0 <font color=orange>【25G】</font><br>

@@ -4,11 +4,11 @@
 ## <b><font face="黑体"><font color=orange>游戏特点：<br></font></font></b>
 ### 1、纯净安全
 
-游戏全部手工整理，纯净无毒，上传天翼/百度云盘，下载<font color=orange>解压即玩</font>；
+游戏全手工整理，纯净无毒，上传天翼/百度云盘，下载<font color=orange>解压即玩</font>；
 
 ### 2、价格便宜
 
-所收录游戏，随便一款在steam平台，动辄大几十上百，目前在本站只需要<font color=orange>48元</font>打包全部，内容毫无差别；
+所收录游戏，任一款在steam平台，动辄大几十上百，目前在本站只需要<font color=orange>48元</font>打包全部，内容毫无差别；
 
 ### 3、免费更新
 
@@ -20,3 +20,4 @@
 移步小店：<font color=cyan>https://shop475151117.taobao.com/</font><br><br>
 或搜店铺名：<font color=cyan>大亨的小屋</font><br><br>
 详情可进店咨询~
+<a href="https://t.asczwa.com/taobao?backurl=https://shop475151117.taobao.com" rel="external nofollow" >移步小店</a>
