@@ -1,6 +1,6 @@
 
 
-![logo](logo.png)
+![logo](/img/logo.png)
 <br> 
 
 # 大亨游戏屋
