@@ -4,6 +4,6 @@
 
 * [游戏目录](zml)
   
-* [免费游戏](freegame.md)
+* [免费游戏](freegame)
 
-* [系统修复](repair.md)
+* [系统修复](repair)
