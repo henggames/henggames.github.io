@@ -3,7 +3,7 @@
 
 
 ![logo](/img/logo1.jpg)
-<br> 
+<br>
 
 # 大亨游戏屋
 
