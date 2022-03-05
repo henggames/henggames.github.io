@@ -1,4 +1,4 @@
-## <center><b>五款大作免费下载<center><b>
+## <center>五款大作免费下载<center>
 
 #### 所有百度网盘提取码为：<font color=orange>heng</font>   <br> <br>解压密码为：<font color=orange>heng.ys168.com</font>
 #### 如某游戏含多个压缩包，为分卷压缩，需<font color=orange>下载所有压缩包</font>，解压一个即可<br><br>

@@ -1,4 +1,4 @@
-## <b><font face="黑体"><font color=orange><center>若游戏报错或无法启动，可尝试下列方法<center></font></font></b>
+## <font face="黑体"><font color=orange><center>若游戏报错或无法启动，可尝试下列方法<center></font></font>
 
  * 1、检查游戏路径有无中文，有则全改英文
 
