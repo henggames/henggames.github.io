@@ -19,6 +19,22 @@
       s.parentNode.insertBefore(hm, s);
     })();
     </script>
+
+<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.css">
+
+<script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/gitalk.min.js"></script>
+<script src="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.min.js"></script>
+<script>
+  const gitalk = new Gitalk({
+    clientID: 'Github Application Client ID',
+    clientSecret: 'Github Application Client Secret',
+    repo: 'Github repo',
+    owner: 'Github repo owner',
+    admin: ['Github repo collaborators, only these guys can initialize github issues'],
+    // facebook-like distraction free mode
+    distractionFreeMode: false
+  })
+</script>
 </head>
 <body>
   <div id="app"></div>
@@ -36,7 +52,6 @@
       noData: '没有结果!',
       depth: 4,
       hideOtherSidebarContent: true,
-      ga: 'G-PCCJK2E2CM'
       }
     }
   </script>
