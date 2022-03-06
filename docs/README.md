@@ -1,4 +1,4 @@
-<font face="黑体"><font color=yellow>←←点击左侧，搜索游戏<br></font></font>
+<font face="黑体"><font color=yellow>←←点击左侧，查目录，搜游戏<br></font></font>
 
 ## <b><font face="黑体"><font color=orange><center>海量游戏供您畅玩！<center></font></font></b><br>
 ## <b><font face="黑体"><font color=orange>游戏特点：<br></font></font></b>

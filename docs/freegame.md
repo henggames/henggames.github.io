@@ -4,10 +4,10 @@
 
 <br>
 
-### <font color=orange>本周（2月28日）更新两款免费游戏：</font>
+### <font color=orange>本周（3月7日）更新两款免费游戏：</font>
 
->### ① 极限竞速：地平线5--v1.430.371 (2022.02.24)
->### ② 盟军敢死队HD高清版--v1.12
+>### ① Together BnB--v20220218
+>### ② 风之旅人--v1.65
 ### QQ群号：<font color=orange>661627142</font>
 
 ### 点击入群：<a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=wWnrIe5zq6iAwbjaMd6NDE8Meb8yrC-Z&jump_from=webapi"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="游戏交流群" title="游戏交流群"></a>
