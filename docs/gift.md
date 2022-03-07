@@ -1,3 +1,5 @@
+<font face="黑体"><font color=yellow>←←点击左侧，查目录，搜游戏<br></font></font>
+
 ## <center>五款大作免费下载<center>
 
 #### 所有百度网盘提取码为：<font color=orange>heng</font>   <br> <br>解压密码为：<font color=orange>heng.ys168.com</font>

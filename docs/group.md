@@ -1,3 +1,5 @@
+<font face="黑体"><font color=yellow>←←点击左侧，查目录，搜游戏<br></font></font>
+
 ## <b><font face="黑体"><font color=orange><center>免费游戏下载<center></font></font></b>
 
 ### QQ群每周更新两款游戏链接，供大家下载。只要在群里时间够长，没有你嫖不到的游戏。
