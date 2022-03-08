@@ -1,6 +1,11 @@
-<font face="黑体"><font color=yellow>←←点击左侧，查目录，搜游戏<br></font></font>
+<head>
+          <!-- Place your kit's code here -->
+          <script src="https://kit.fontawesome.com/911b022eab.js" crossorigin="anonymous"></script>
+</head>
 
-## <b><font face="黑体"><font color=orange><center>海量游戏供您畅玩！<center></font></font></b><br>
+<font face="黑体"><font color=yellow><i class="fa-solid fa-arrow-left-long"></i>&nbsp;点击左侧，查目录，搜游戏<br></font></font>
+
+##  <b><font face="黑体"><center><i class="fa-brands fa-steam"></i>&nbsp;<font color=orange>海量游戏供您畅玩！<center></font></font></b><br>
 ## <b><font face="黑体"><font color=orange>游戏特点：<br></font></font></b>
 >### 1、*纯净安全*
 >

@@ -1,4 +1,9 @@
-## <center><font color=orange>总目录</font><center>
+<head>
+          <!-- Place your kit's code here -->
+          <script src="https://kit.fontawesome.com/911b022eab.js" crossorigin="anonymous"></script>
+</head>
+
+## <center><i class="fa-solid fa-list"></i><font color=orange>&nbsp; 总目录</font><center>
 
 * 90 文明6--v1.0.12.9集成全DLCs 【35G】
 
@@ -331,8 +336,8 @@
 * 415 像素黑暗史--v1.32整合远古奇兽DLC【2G】
 * 416 风月魔传：不朽之月--v1.0【8G】
 * 417 混乱斗士--v20220223【3G】
-*
-*
+* 418 暗影火炬城
+* 419 幽闭深渊
 *
 *
 *

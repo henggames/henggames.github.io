@@ -1,7 +1,10 @@
-<font face="黑体"><font color=yellow>←←点击左侧，查目录，搜游戏<br></font></font>
+<head>
+          <!-- Place your kit's code here -->
+          <script src="https://kit.fontawesome.com/911b022eab.js" crossorigin="anonymous"></script>
+</head>
+<font face="黑体"><font color=yellow><i class="fa-solid fa-arrow-left-long"></i>&nbsp;点击左侧，查目录，搜游戏<br></font></font>
 
-## <center>五款大作免费下载<center>
-
+## <center><i class="fa-solid fa-gamepad"></i></i>&nbsp;<font color=orange>五款大作免费下载<center>
 #### 所有百度网盘提取码为：<font color=orange>heng</font>   <br> <br>解压密码为：<font color=orange>heng.ys168.com</font>
 #### 如某游戏含多个压缩包，为分卷压缩，需<font color=orange>下载所有压缩包</font>，解压一个即可<br><br>
 ------------------------------------------------------------------------------

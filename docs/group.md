@@ -1,6 +1,11 @@
-<font face="黑体"><font color=yellow>←←点击左侧，查目录，搜游戏<br></font></font>
+<head>
+          <!-- Place your kit's code here -->
+          <script src="https://kit.fontawesome.com/911b022eab.js" crossorigin="anonymous"></script>
+</head>
+<font face="黑体"><font color=yellow><i class="fa-solid fa-arrow-left-long"></i>&nbsp;点击左侧，查目录，搜游戏<br></font></font>
 
-## <b><font face="黑体"><font color=orange><center>免费游戏下载<center></font></font></b>
+
+## <center><i class="fa-solid fa-handshake"></i>  &nbsp;<font color=orange>免费游戏下载<center></font></font>
 
 ### QQ群每周更新两款游戏链接，供大家下载。只要在群里时间够长，没有你嫖不到的游戏。
 
