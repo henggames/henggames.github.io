@@ -3,9 +3,9 @@
           <script src="https://kit.fontawesome.com/911b022eab.js" crossorigin="anonymous"></script>
 </head>
 
-## <center><i class="fa-regular fa-calendar-days"></i> &nbsp;<font color=orange>更新记录</font><center>
+<h2><center><i class="fa-regular fa-calendar-days"></i> &nbsp;<font color=orange>更新记录</font><center></h2>
 
-### <font color=amber>2022年3月</font><br>
+<h3><font color=cyan>2022年3月</font></h3><br>
 
 * 8日   &nbsp;&nbsp;幽闭深渊 / Hidden Deep
 * 8日   &nbsp;&nbsp;暗影火炬城 / Forged In Shadow Torch

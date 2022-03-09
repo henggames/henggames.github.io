@@ -7,7 +7,7 @@
 
 * [<i class="fa-solid fa-list"></i>&nbsp;&nbsp;游戏目录](list.md)
 
-* [<i class="fa-regular fa-calendar-days"></i> &nbsp;&nbsp;更新记录](update)
+* [<i class="fa-regular fa-calendar-days"></i>&nbsp;&nbsp;更新记录](update)
 
 * [<i class="fa-solid fa-handshake"></i>&nbsp;&nbsp;免费游戏🔥](group)
 
