@@ -5,7 +5,7 @@
 
 * [<i class="fa-solid fa-house-chimney-window"></i>&nbsp;&nbsp;首页](README)
 
-     <!-- * [<i class="fa-solid fa-fire"></i>&nbsp;&nbsp;热门游戏](hot.md) -->
+* [<i class="fa-solid fa-fire"></i>&nbsp;&nbsp;热门游戏](hot.md)
 
 * [<i class="fa-solid fa-list"></i>&nbsp;&nbsp;游戏目录](list.md)
 

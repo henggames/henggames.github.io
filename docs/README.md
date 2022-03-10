@@ -5,7 +5,7 @@
 
 <font face="黑体"><font color=yellow><i class="fa-solid fa-arrow-left-long"></i>&nbsp;点击左侧，查目录，搜游戏<br></font></font>
 
-<h2>  <b><font face="黑体"><center><i class="fa-brands fa-steam"></i>&nbsp;<font color=orange>海量游戏供您畅玩！<center></font></font></b></h2><br>
+<h2>  <b><font face="黑体"><center><i class="fa-brands fa-steam"></i>&nbsp;<font color=orange>海量游戏供您畅玩！<center></font></font></b></h2>
 <h2><b><font face="黑体"><font color=orange>游戏特点：<br></font></font></b></h2>
 
 ><h3> 1、纯净安全</h3>
