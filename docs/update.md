@@ -7,6 +7,9 @@
 
 <h3><font color=cyan>2022年3月</font></h3><br>
 
+* 12日&nbsp;&nbsp;只只大冒险 / Biped
+* 12日&nbsp;&nbsp;核心守护者 / Core Keeper
+* 12日&nbsp;&nbsp;全网公敌 / Cyber Manhunt
 * 11日&nbsp;&nbsp;圣女战棋 / Banner of the Maid
 * 11日&nbsp;&nbsp;波比的游戏时间 / Poppy Playtime
 * 11日&nbsp;&nbsp;斗技场的阿利娜 / Alina of the Arena

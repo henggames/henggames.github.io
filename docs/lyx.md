@@ -1,6 +1,6 @@
-### <font color=orange>可免费领取游戏</font>
+## <font color=orange>可免费领取游戏</font>
 
-#### 您可从下列游戏中，挑出一款心仪的，把编号告诉客服即可
+### <font color=tomato>注：只有本页面游戏，可以挑选赠送哦~</font>
 
 ---
 * 92 斩妖行
