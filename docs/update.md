@@ -7,8 +7,12 @@
 
 <h3><font color=cyan>2022年3月</font></h3><br>
 
+* 13日&nbsp;&nbsp;归家异途 / Home behind
+* 13日&nbsp;&nbsp;归家异途2 / Home behind2
+* 13日&nbsp;&nbsp;孤独之海 / Sea of Solitude
+* 13日&nbsp;&nbsp;神笔狗良 / Chicory A Colorful Tale
 * 12日&nbsp;&nbsp;只只大冒险 / Biped
-* 12日&nbsp;&nbsp;核心守护者 / Core Keeper
+* 12日&nbsp;&nbsp;地心护核者 / Core Keeper
 * 12日&nbsp;&nbsp;全网公敌 / Cyber Manhunt
 * 11日&nbsp;&nbsp;圣女战棋 / Banner of the Maid
 * 11日&nbsp;&nbsp;波比的游戏时间 / Poppy Playtime
