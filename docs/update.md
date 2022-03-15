@@ -7,6 +7,9 @@
 
 <h3><font color=cyan>2022年3月</font></h3><br>
 
+* 15日&nbsp;&nbsp;鬼谷八荒 （更新版本：v0.8.5012）
+* 15日&nbsp;&nbsp;帝国时代4 / Age of Empires IV
+* 15日&nbsp;&nbsp;北方之魂 / Spirit of the North
 * 13日&nbsp;&nbsp;归家异途 / Home behind
 * 13日&nbsp;&nbsp;归家异途2 / Home behind2
 * 13日&nbsp;&nbsp;孤独之海 / Sea of Solitude
