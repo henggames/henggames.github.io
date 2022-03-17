@@ -28,4 +28,4 @@
  * 8、部分硬件问题或显卡驱动没有安装以及版本太旧，导致游戏 “没反应” “闪退” “黑屏” 等，排除中文目录的原因，请百度搜索下载 “驱动精灵” 优先对显卡驱动进行安装或更新，再硬件驱动进行升级。
 
 ---
- ### <font color=cyan>→→[点击下载修复工具箱](https://cowtransfer.com/s/e13ae4ad6bcd46)←←</font>
+ ### <font color=cyan>→→[点击下载修复工具箱](https://www.123pan.com/s/9BXRVv-gfg43)←←</font>
