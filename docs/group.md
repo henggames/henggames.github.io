@@ -9,9 +9,9 @@
 
 ### 下面几款游戏都是完整版内容，供您下载游玩体验
 
->#### ① 鬼谷八荒--v0.8.4038.269  &nbsp;&nbsp;<font color=cyan>[百度网盘下载](https://pan.baidu.com/s/1nQTY5ELNKqigloqaAMrXsA?pwd=heng)&nbsp;丨&nbsp;[网页不限速下载](https://www.123pan.com/s/9BXRVv-Ifg43)</font>
->#### ② 戴森球计划--v0.8.23.9808  &nbsp;&nbsp;<font color=cyan>[百度网盘下载](https://pan.baidu.com/s/1uqNrZ3c-WEQVycb4o62DKQ?pwd=heng)&nbsp;丨&nbsp;[网页不限速下载](https://www.123pan.com/s/9BXRVv-Mfg43)</font>
->#### ③ 暖雪--v1.0  &nbsp;&nbsp;<font color=cyan>[百度网盘下载](https://pan.baidu.com/s/1nNyfMtFPTyjqvDcsa6F2mw?pwd=heng)&nbsp;丨&nbsp;[网页不限速下载](https://www.123pan.com/s/9BXRVv-wfg43)</font>
+>#### ① 鬼谷八荒--v0.8.4038.269  &nbsp;&nbsp;<font color=cyan>[百度网盘下载](https://pan.baidu.com/s/1nQTY5ELNKqigloqaAMrXsA?pwd=heng)&nbsp;丨&nbsp;[网页不限速下载](https://cowtransfer.com/s/b5066f48cebd45)</font>
+>#### ② 戴森球计划--v0.8.23.9808  &nbsp;&nbsp;<font color=cyan>[百度网盘下载](https://pan.baidu.com/s/1uqNrZ3c-WEQVycb4o62DKQ?pwd=heng)&nbsp;丨&nbsp;[网页不限速下载](https://cowtransfer.com/s/56655588cee045)</font>
+>#### ③ 暖雪--v1.0  &nbsp;&nbsp;<font color=cyan>[百度网盘下载](https://pan.baidu.com/s/1nNyfMtFPTyjqvDcsa6F2mw?pwd=heng)&nbsp;丨&nbsp;[网页不限速下载](https://cowtransfer.com/s/f23948cc274943)</font>
 
 ---
 
@@ -26,11 +26,12 @@
 
 ![avatar](/img/qwj.jpg)
 
-<h3>QQ群号：<font color=orange>661627142</font></h3>
 
-<h3>点击入群：<a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=wWnrIe5zq6iAwbjaMd6NDE8Meb8yrC-Z&jump_from=webapi"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="游戏交流群" title="游戏交流群"></a></h3>
+<h3>点击入群：<a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=wWnrIe5zq6iAwbjaMd6NDE8Meb8yrC-Z&jump_from=webapi"><font color=orange>661627142</font></a></h3>
 
 <h3>扫码加群:</h3>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/img/qqun.jpg" style="zoom:55%">
+
+
 
