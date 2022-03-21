@@ -7,9 +7,12 @@
 
 <h3><font color=cyan>2022年3月</font></h3><br>
 
+* 21日&nbsp;&nbsp;祝你好死 / Have A Nice Death
+* 21日&nbsp;&nbsp;旁观者3 / Beholder3
+* 21日&nbsp;&nbsp;邪恶铭刻 / Inscryption 更新版本v1.08
 * 19日&nbsp;&nbsp;电锯惊魂 / Saw
 * 18日&nbsp;&nbsp;暖雪 / Warm snow （更新版本v1.1.1.1）
-* 17日&nbsp;&nbsp;玩具熊的午夜后宫 / Five Nights at Freddys Security Breach
+* 17日&nbsp;&nbsp;玩具熊的五夜后宫：安全漏洞 / Five Nights at Freddys Security Breach
 * 17日&nbsp;&nbsp;影子武士3 / Shadow Warrior 3
 * 15日&nbsp;&nbsp;鬼谷八荒 （更新版本：v0.8.5012）
 * 15日&nbsp;&nbsp;帝国时代4 / Age of Empires IV
