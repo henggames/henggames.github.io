@@ -7,6 +7,9 @@
 
 <h3><font color=cyan>2022年3月</font></h3><br>
 
+* 23日&nbsp;&nbsp;OMORI
+* 22日&nbsp;&nbsp;最终幻想6像素重制版 / FINAL FANTASY VI
+* 22日&nbsp;&nbsp;加油站大亨 / Gas Station Simulator
 * 21日&nbsp;&nbsp;祝你好死 / Have A Nice Death
 * 21日&nbsp;&nbsp;旁观者3 / Beholder3
 * 21日&nbsp;&nbsp;邪恶铭刻 / Inscryption 更新版本v1.08
