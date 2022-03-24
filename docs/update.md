@@ -7,6 +7,7 @@
 
 <h3><font color=cyan>2022年3月</font></h3><br>
 
+* 24日&nbsp;&nbsp;纪元变异 / ANNOMutationem
 * 24日&nbsp;&nbsp;部落幸存者 / Settlement.Survival
 * 24日&nbsp;&nbsp;零 濡鸦之巫女 / Fatal Frame: Maiden of Black Water
 * 23日&nbsp;&nbsp;OMORI
