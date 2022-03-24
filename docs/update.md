@@ -7,6 +7,8 @@
 
 <h3><font color=cyan>2022年3月</font></h3><br>
 
+* 24日&nbsp;&nbsp;部落幸存者 / Settlement.Survival
+* 24日&nbsp;&nbsp;零 濡鸦之巫女 / Fatal Frame: Maiden of Black Water
 * 23日&nbsp;&nbsp;OMORI
 * 22日&nbsp;&nbsp;最终幻想6像素重制版 / FINAL FANTASY VI
 * 22日&nbsp;&nbsp;加油站大亨 / Gas Station Simulator
