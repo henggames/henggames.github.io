@@ -363,5 +363,5 @@
 * 445 零 ～濡鸦之巫女～全dlc【35G】
 * 446 部落幸存者v0.84.207.810 【1G】
 * 447 闭店事件--v1.0【9G】
-* 448 <font color=orange>幽灵线：东京Ghostwire: Tokyo 【32】</font>
+* 448 <font color=orange>幽灵线：东京Ghostwire: Tokyo 【32G】</font>
 * 449 纪元变异--v1.0 【15G】
