@@ -11,6 +11,3 @@
 
 * [<i class="fa-solid fa-handshake"></i>&nbsp;&nbsp;免费游戏🔥](group)
 
-* [<i class="fa-regular fa-chess-queen"></i>&nbsp;&nbsp;会员专属](vip.html)
-
-* [<i class="fa-solid fa-screwdriver-wrench"></i>&nbsp;&nbsp;系统修复](repair)
