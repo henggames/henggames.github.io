@@ -7,6 +7,23 @@
 
 <h3><font color=cyan>2022年3月</font></h3><br>
 
+* 29日&nbsp;&nbsp;开心小汉堡庄 / Happys Humble Burger Farm
+* 29日&nbsp;&nbsp;侏罗纪世界进化2 / Jurassic World Evolution 2
+* 29日&nbsp;&nbsp;凯娜:精神之桥 / Kena Bridge of Spirits
+* 29日&nbsp;&nbsp;迷你地铁 / Mini Metro
+* 29日&nbsp;&nbsp;精灵与萤火意志/ Ori and the Will of the Wisps
+* 29日&nbsp;&nbsp;破败王者英雄联盟传奇 / Ruined King a League of Legends Story
+* 29日&nbsp;&nbsp;锈湖根源 / Rusty Lake Roots
+* 29日&nbsp;&nbsp;异形工厂 / shapez io
+* 29日&nbsp;&nbsp;东方夜光幻梦 / Touhou Endless Dream
+* 29日&nbsp;&nbsp;吸血鬼幸存者 / Vampire Survivors
+* 29日&nbsp;&nbsp;战锤40k: 战斗区域 / Warhammer 40000 Battlesector
+* 29日&nbsp;&nbsp;西部正义:双管猎枪 / Westerado Double Barreled
+* 29日&nbsp;&nbsp;风岭 / Wind.Peaks
+* 29日&nbsp;&nbsp;艾希 / ICEY
+* 29日&nbsp;&nbsp;TUNIC / TUNIC
+* 27日&nbsp;&nbsp;塞伯利亚之谜:过去的世界 / Syberia The World Before
+* 27日&nbsp;&nbsp;破晓传说 / Tales of Arise
 * 27日&nbsp;&nbsp;蒙道恩 / Mundaun
 * 27日&nbsp;&nbsp;桥梁建造师2 / Poly Bridge 2
 * 27日&nbsp;&nbsp;拳击俱乐部 / Punch Club
