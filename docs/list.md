@@ -1,5 +1,12 @@
+<head>
+          <!-- Place your kit's code here -->
+          <script src="https://kit.fontawesome.com/911b022eab.js" crossorigin="anonymous"></script>
+</head>
 <h2><center><i class="fa-solid fa-list"></i><font color=orange>&nbsp; 总目录</font><center></h2>
 
+>目录更新，转移到新网站：[<font color=orange>点击跳转</font>](https://bigheng.net/list/)
+
+* 471 怪物猎人世界:冰原 【190G】
 * 470 死亡搁浅 导演剪辑版 【140G】
 * 469 破晓传说-v20210910【75G】
 * 468 塞伯利亚之谜:过去的世界-v20220319【33G】
