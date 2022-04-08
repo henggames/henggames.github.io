@@ -6,5 +6,4 @@
 ##
 
 * 更多问题
-  * <i class="fa-brands fa-weixin"></i>&nbsp;bigheng888
-  * <i class="fa-brands fa-qq"></i>&nbsp;1074720681
+  * <i class="fa-brands fa-qq"></i> 群 661627142
