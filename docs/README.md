@@ -18,7 +18,7 @@
 >分享的游戏<font color=orange>*永久有效*</font>，免费更新。热门游戏一般都会收录，暂时没有的以后会有；<br>总之，<font color=orange>我负责找，你负责玩</font>。
 
 
-><h3> 3、如何购买</h3>
+><h3> 3、查看详情</h3>
 
 点击：<font color=#8ed1fc>https://bigheng.net/</font>
 <!-- ><html>
