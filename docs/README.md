@@ -20,7 +20,7 @@
 
 ><h3> 3、查看详情</h3>
 
-点击：<font color=#8ed1fc>https://dhyx.net/</font>
+点击：<font color=#8ed1fc>https://dhyx.vip/</font>
 <!-- ><html>
 >	<head>
 >		<meta charset="UTF-8">
@@ -31,7 +31,7 @@
 >		</style>
 >	</head>
 >	<body>
->		<font color=cyan><a class="box" href="">https://dhyx.net/</a></font>
+>		<font color=cyan><a class="box" href="">https://dhyx.vip/</a></font>
 >	</body>
 ></html>
 ><br> -->
